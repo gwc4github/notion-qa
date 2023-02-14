@@ -1,4 +1,8 @@
 # Notion Question-Answering
+Original version: https://github.com/hwchase17/notion-qa.git
+
+This is just Gregg's playground.
+
 
 🤖Ask questions to your Notion database in natural language🤖
 
