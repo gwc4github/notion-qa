@@ -1,7 +1,7 @@
 # Notion Question-Answering
 Original version: https://github.com/hwchase17/notion-qa.git
 
-This is just Gregg's playground.
+This is Gregg's playground.  I have customized this with an additional company's information (employee handbook) to show how this can be done.  It also shows that ChatGPT can be set up to answer "I don't know" instead of making up answers.
 
 
 🤖Ask questions to your Notion database in natural language🤖
